@@ -23,17 +23,6 @@ Primeiras imagens da UI/UX
 
 ---
 
-### ✨ Entre no grupo do Telegram
-Seja educado e respeitoso, a finalidade do grupo é para discutir sobre o projeto.
-
-* Feedback
-* Novas ideias
-* Ajuda no desenvolvimento
-
-[Entra lá! Clique aqui](https://t.me/+4-PAWq2y8gMwNTNh)
-
----
-
 ## ✨ Funcionalidades principais
 
 ### 📢 1. Relato Público e Aberto
