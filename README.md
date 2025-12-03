@@ -1,3 +1,6 @@
+# !! Projeto arquivado !!
+Judicialmente falando fica inviável lançar.
+
 # 🛡️ Proteja+ — Plataforma de Relatos Públicos, Anônimos e Confidenciais
 
 ![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
