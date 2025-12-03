@@ -17,7 +17,9 @@ O **Proteja+** é uma plataforma digital projetada para permitir que qualquer pe
 O objetivo é facilitar denúncias, ampliar a visibilidade de casos e direcionar informações para autoridades, organizações e redes de apoio.
 
 Primeiras imagens da UI/UX
-![Logo da Minha Empresa](https://exemplo.com/logo.png)
+| Pág. Inicial  | Tipo de relato | Obs. rel. público | Obs. rel. anônimo |
+| ------------- | ------------- | ------------- | ------------- |
+| <img src="https://github.com/LeoDev99/ProtejaPlus/blob/1eec53466fd466af40906abe2ab8c8f4521cf234/Telas/Home.png" width="300"> | <img src="https://github.com/LeoDev99/ProtejaPlus/blob/1eec53466fd466af40906abe2ab8c8f4521cf234/Telas/Tipo%20de%20relato.png" width="300"> | <img src="https://github.com/LeoDev99/ProtejaPlus/blob/1eec53466fd466af40906abe2ab8c8f4521cf234/Telas/Obs.%20relato%20p%C3%BAblico.png" width="300"> | <img src="https://github.com/LeoDev99/ProtejaPlus/blob/1eec53466fd466af40906abe2ab8c8f4521cf234/Telas/Obs.%20relato%20an%C3%B4nimo.png" width="300"> |
 
 ---
 
